@@ -2,8 +2,11 @@
 Links of anything and everything
 
 
-Creating Audio/music:
+Creating Audio/music in the browser:
 https://www.gibber.cc
+
+Creating Audio/Music locally:
+https://foxdot.org/
 
 Creating Visuals/Glitches:
 https://hydra-editor.glitch.me/
