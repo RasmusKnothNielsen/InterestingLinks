@@ -13,3 +13,6 @@ https://hydra-editor.glitch.me/
 
 Forum for Live Coding:
 https://forum.toplap.org/
+
+Blender 2.8 Grease Pencil Scripting and Generative Art
+https://towardsdatascience.com/blender-2-8-grease-pencil-scripting-and-generative-art-cbbfd3967590
